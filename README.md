@@ -1,0 +1,2 @@
+# MyTesseract
+my ocr
